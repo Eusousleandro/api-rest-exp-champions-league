@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Vinícius Júnior",
+    "club": "Real Madrid",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "statistics": {
+        "Overall": 89,
+        "Pace": 95,
+        "Shooting": 83,
+        "Passing": 79,
+        "Dribbing": 92,
+        "Defending": 36,
+        "Physical": 68
+        }
+  },
+  {
+    "id": 2,
+    "name": "Lionel Torres",
+    "club": "Real Madrid", 
+    "nationality": "Argentina",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 92,
+      "Pace": 88,
+      "Shooting": 91,
+      "Passing": 87,
+      "Dribbing": 94,
+      "Defending": 40,
+      "Physical": 72
+    }
+  },
+  {
+    "id": 3,
+    "name": "Marco Silva",
+    "club": "Benfica",  
+    "nationality": "Portugal",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 88,
+      "Pace": 78,
+      "Shooting": 82,
+      "Passing": 90,
+      "Dribbing": 86,
+      "Defending": 68,
+      "Physical": 70
+    }
+  },
+  {
+    "id": 4,
+    "name": "Yuto Nakamura",
+    "club": "RB Leipzig",  
+    "nationality": "Japan",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 85,
+      "Pace": 77,
+      "Shooting": 74,
+      "Passing": 88,
+      "Dribbing": 83,
+      "Defending": 60,
+      "Physical": 68
+    }
+  },
+  {
+    "id": 5,
+    "name": "Carlos Mendes",
+    "club": "Manchester City",
+    "nationality": "Brazil",
+    "position": "Winger",
+    "statistics": {
+      "Overall": 87,
+      "Pace": 90,
+      "Shooting": 85,
+      "Passing": 84,
+      "Dribbing": 89,
+      "Defending": 45,
+      "Physical": 73
+    }
+  }
+]
