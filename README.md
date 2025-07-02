@@ -46,7 +46,7 @@ Editar
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/api-rest-champions-league.git
+git clone hhttps://github.com/Eusousleandro/api-rest-expr-champios-league.git
 cd api-rest-champions-league
 2. Instalar dependências
 bash
